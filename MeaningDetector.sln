@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeaningDetector", "MeaningDetector\MeaningDetector.csproj", "{F3355AA8-8F23-48E3-88F4-30FC5717EBF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeaningDetector.Business", "MeaningDetector.Business\MeaningDetector.Business.csproj", "{CEDFA2F1-C1C6-4108-A01B-F80DD7158A05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeaningManager.Models", "MeaningManager.Models\MeaningManager.Models.csproj", "{7DCBA1EE-9753-4A88-9CF6-65718FEEDD59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeaningDetector.Business.Tests", "MeaningDetector.Business.Tests\MeaningDetector.Business.Tests.csproj", "{DC3E9601-02CD-45A7-B2AB-EE94AEF3313D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeaningDetector.Designer", "MeaningDetector.Designer\MeaningDetector.Designer.csproj", "{7527EC52-95CC-446C-A32F-6E8AFC644086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3355AA8-8F23-48E3-88F4-30FC5717EBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3355AA8-8F23-48E3-88F4-30FC5717EBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3355AA8-8F23-48E3-88F4-30FC5717EBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3355AA8-8F23-48E3-88F4-30FC5717EBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDFA2F1-C1C6-4108-A01B-F80DD7158A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDFA2F1-C1C6-4108-A01B-F80DD7158A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDFA2F1-C1C6-4108-A01B-F80DD7158A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDFA2F1-C1C6-4108-A01B-F80DD7158A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCBA1EE-9753-4A88-9CF6-65718FEEDD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCBA1EE-9753-4A88-9CF6-65718FEEDD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCBA1EE-9753-4A88-9CF6-65718FEEDD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCBA1EE-9753-4A88-9CF6-65718FEEDD59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3E9601-02CD-45A7-B2AB-EE94AEF3313D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3E9601-02CD-45A7-B2AB-EE94AEF3313D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3E9601-02CD-45A7-B2AB-EE94AEF3313D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3E9601-02CD-45A7-B2AB-EE94AEF3313D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7527EC52-95CC-446C-A32F-6E8AFC644086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7527EC52-95CC-446C-A32F-6E8AFC644086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7527EC52-95CC-446C-A32F-6E8AFC644086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7527EC52-95CC-446C-A32F-6E8AFC644086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
