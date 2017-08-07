@@ -25,7 +25,7 @@ namespace MeaningDetector.Designer
             }
 
 
-            Console.WriteLine($"{wordIterations.ElementAt(i).Iterations} |{decal} +");
+            //Console.WriteLine($"{wordIterations.ElementAt(i).Iterations} |{decal} +");
             decal += " ";
 
             Console.ReadKey();
